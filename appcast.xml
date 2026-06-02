@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.3.0</title>
+            <title>Version 2.3.1</title>
             <description><![CDATA[
-                <h2>Drippy 2.3.0</h2>
-                <p>Click Drippy's menu bar icon and you'll see a brand new quick-action popover. Log your rehydration, or even click skip if you absolutely need to. Sometimes we just can't get to our water right away, so now, whenever a reminder is active, a Skip button appears alongside Log so you can dismiss without logging. No guilt, Drippy &amp; Sippy understand.<br/><br/>No more remembering left-click vs right-click. Everything lives in the same popover each time you click the menu bar icon. Simple.<br/><br/>We fixed an issue where Drippy could cause the system to become unresponsive after being left unattended overnight. Animations now pause when the screen locks and resume when you return. The app also releases system resources after 5 minutes instead of holding them indefinitely.<br/><br/>Reminder intervals now have a 30-minute minimum.<br/><br/>Fixed a bug where "Launch on startup" could appear enabled but wasn't actually registered with the system.<br/><br/>The settings popover now properly activates so it looks crisp and focused instead of washed out.<br/><br/>Pheww! That was a lot! We need to get some water after reading all of that!</p>
+                <h2>Drippy 2.3.1</h2>
+                <p>Trimmed the settings popover: removed the stats card, share-stats menu, and today's-history view. Reminders, character picker, and drip style stay front-and-center.</p>
             ]]></description>
-            <pubDate>Tue, 10 Mar 2026 13:30:54 -0600</pubDate>
+            <pubDate>Tue, 02 Jun 2026 15:23:23 -0600</pubDate>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.3.0/Drippy-2.3.0.zip"
-                sparkle:version="12"
-                sparkle:shortVersionString="2.3.0"
-                sparkle:edSignature="2SyyF0wPHSlgjW5YIa4pM2F/xTiz6kL9SgxR4eBTC7B60yzIkDycYu8jL4e+n0A+vn+ZcZUhRwGB4NOCXvYoBw=="
-                length="2760974"
+                url="https://github.com/TwentyElevenLLC/drippy-releases/releases/download/v2.3.1/Drippy-2.3.1.zip"
+                sparkle:version="13"
+                sparkle:shortVersionString="2.3.1"
+                sparkle:edSignature="VDvmSsA2Mr1HVnR0DQHjFxMMDQgtubLM1/oUPi9JDQ+DbEgG1jtCPoO1H1mzHOaEsWA/6uBCGsZ+lGYJ2oa6Ag=="
+                length="2713279"
                 type="application/octet-stream"
             />
         </item>
